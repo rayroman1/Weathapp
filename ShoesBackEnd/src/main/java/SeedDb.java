@@ -1,7 +1,7 @@
 package com.example.Getapi2;
 
-import com.example.Getapi2.model.User;
-import com.example.Getapi2.repo.UserRepo;
+import com.example.Getapi2.Getapi2.model.User;
+import com.example.Getapi2.Getapi2.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
